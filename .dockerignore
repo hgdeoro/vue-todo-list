@@ -1,0 +1,11 @@
+dist
+Dockerfile
+.dockerignore
+.editorconfig
+.git
+.gitignore
+.idea
+Makefile
+node_modules
+README.md
+.virtualenv
